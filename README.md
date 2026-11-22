@@ -1,5 +1,7 @@
 # Capy OS UAC Polkit Agent 
 
+![Sample Image](sample.png)
+
 Capy OS UAC Polkit Agent is an alternative frontend designed to look like something between the User Account Control dialog of Windows 7 and Windows 10.
 
 It is a fork of https://github.com/aeroshell-desktop/uac-polkit-agent
